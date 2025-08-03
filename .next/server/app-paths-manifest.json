@@ -1,0 +1,5 @@
+{
+  "/api/remote-audit/route": "app/api/remote-audit/route.js",
+  "/api/scan/route": "app/api/scan/route.js",
+  "/page": "app/page.js"
+}
